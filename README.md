@@ -1,10 +1,23 @@
-Este projeto foi realizado para o processo seletivo da Tago.io
+<h1 align="center">🚀 SpaceX Ships</h1>
 
-O projeto consiste em consumir uma api GraphQL da SpaceX e mostar na tela o resultado de todas naves ativas, e sua atual missão, em CSV. 
+###### Este projeto foi realizado para o processo seletivo da Tago.io
 
-#### Como executar o projeto
+## Objetivo 🌎
+Consumir a api GraphQL aberta da [SpaceX](https://api.spacex.land/graphql/) utilizando tecnologias backend. Buscar todas as naves ativas e sua mição atual, mostrar na tela o resultado em CSV.
 
-```shell
+## Como usar ⚙️
+
+```bash
 $ npm install
 $ npm start
 ```
+A saida em CSV irá aparecer no terminal 
+
+
+## Autor 👤
+
+**Ricardo Stoklosa**
+
+- Github: [@RicardoStoklosa](https://github.com/RicardoStoklosa)
+
+- LinkedIn: [@ricardostoklosa](https://www.linkedin.com/in/ricardostoklosa/)
