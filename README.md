@@ -3,7 +3,7 @@
 ###### Este projeto foi realizado para o processo seletivo da Tago.io
 
 ## Objetivo 🌎
-Consumir a api GraphQL aberta da [SpaceX](https://api.spacex.land/graphql/) utilizando tecnologias backend. Buscar todas as naves ativas e sua mição atual, mostrar na tela o resultado em CSV.
+Consumir a api GraphQL aberta da [SpaceX](https://api.spacex.land/graphql/) utilizando tecnologias backend. Buscar todas as naves ativas e sua missão atual, mostrar na tela o resultado em CSV.
 
 ## Como usar ⚙️
 
